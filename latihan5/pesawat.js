@@ -8,6 +8,6 @@ while (no_pesawat <= 20) {
   } else {
     var hkondisi = "buruk";
   }
-  console.log("No. Pesawat" + no_pesawat + " dalam keadaan " + hkondisi);
+  console.log("No. Pesawat " + no_pesawat + " dalam keadaan " + hkondisi);
   no_pesawat++;
 }
